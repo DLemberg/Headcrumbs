@@ -15,7 +15,7 @@ import net.minecraft.item.ItemStack;
 public class LycanitesHelper extends HeadDropHelper {
 
 	public static final List<String> blacklist = Arrays.asList("pinky", "behemoth", "belph");
-	public static final List<String> prefixes = Arrays.asList("arcticmobs", "demonmobs", "desertmobs", "forestmobs", "freshwatermobs", "infernomobs", "junglemobs", "mountainmobs", "plainsmobs", "saltwatermobs", "swampmobs");
+	public static final List<String> prefixes = Arrays.asList("arcticmobs", "demonmobs", "desertmobs", "forestmobs", "freshwatermobs", "infernomobs", "junglemobs", "mountainmobs", "plainsmobs", "saltwatermobs", "shadowmobs" "swampmobs");
 
 	public LycanitesHelper() {
 		super("lycanitesmobs");
